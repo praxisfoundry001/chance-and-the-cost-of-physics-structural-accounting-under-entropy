@@ -46,7 +46,7 @@ Good follow-on artifacts in this lane include:
 - *Density as Translation Field Between Coherent Regimes*
 
 ## Citation / DOI
-Zenodo DOI: **pending**
+Zenodo DOI: https://doi.org/10.5281/zenodo.19446014
 
 Full signed PDF available via DOI link after publication.
 
